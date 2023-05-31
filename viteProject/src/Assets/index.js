@@ -1,5 +1,5 @@
 
-import daw from '../Assets/DAW.jpeg'
+import daw from './DAW.jpeg'
 import frequencies from './Frequencies.jpeg'
 import music_master from './Music_mastering.jpeg'
 import vocal_process from './Vocal_Processing.jpeg'
